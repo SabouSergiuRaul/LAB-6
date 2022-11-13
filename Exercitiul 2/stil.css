@@ -42,10 +42,12 @@ background-color:#1c1b1b;
 }
 #catalog{
 position:absolute;
-left:200px;
-top:100px;
+left:400px;
+top:70px;
 width:200px;
 height:300px;
+opacity:0.88;
+border-radius: 30px;
 }
 #sergiu{
 opacity:0.88;
@@ -70,4 +72,8 @@ padding:10px;
 position: absolute;
 left:1100px;
 top:150px;
+}
+#cupr{
+font-family:arial;
+font-size:5em;
 }
